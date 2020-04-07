@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>demo | Hardik Bagada</title>
-    <link>/tags/demo/</link>
-      <atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hardik0307.github.io/tags/demo/</link>
+      <atom:link href="https://hardik0307.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>demo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Apr 2020 10:46:14 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>demo</title>
-      <link>/tags/demo/</link>
+      <link>https://hardik0307.github.io/tags/demo/</link>
     </image>
     
     <item>
       <title>Test</title>
-      <link>/post/test/</link>
+      <link>https://hardik0307.github.io/post/test/</link>
       <pubDate>Tue, 07 Apr 2020 10:46:14 +0530</pubDate>
-      <guid>/post/test/</guid>
+      <guid>https://hardik0307.github.io/post/test/</guid>
       <description>&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
 &lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Indented code&lt;/p&gt;
