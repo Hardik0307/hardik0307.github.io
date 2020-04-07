@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hardik Bagada</title>
-    <link>https://hardik0307.github.io/</link>
-      <atom:link href="https://hardik0307.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hardik Bagada</description>
+    <title>Data Science | Hardik Bagada</title>
+    <link>https://hardik0307.github.io/tags/data-science/</link>
+      <atom:link href="https://hardik0307.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Apr 2020 17:46:36 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Hardik Bagada</title>
-      <link>https://hardik0307.github.io/</link>
+      <title>Data Science</title>
+      <link>https://hardik0307.github.io/tags/data-science/</link>
     </image>
     
     <item>
@@ -177,188 +177,6 @@ A week of flights in Brazil. Original file was just a csv with origin and destin
 &lt;p&gt;Happy to hear your feedback/criticism.&lt;br/&gt;
 Stay Safe and Hydrated!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://hardik0307.github.io/post/test/</link>
-      <pubDate>Tue, 07 Apr 2020 10:46:14 +0530</pubDate>
-      <guid>https://hardik0307.github.io/post/test/</guid>
-      <description>&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Indented code&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Block code &amp;ldquo;fences&amp;rdquo;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Sample text here...
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Syntax highlighting&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Option&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;data&lt;/td&gt;
-&lt;td&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;engine&lt;/td&gt;
-&lt;td&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ext&lt;/td&gt;
-&lt;td&gt;extension to be used for dest files.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Right aligned columns&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;right&#34;&gt;Option&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;data&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;engine&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;ext&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;extension to be used for dest files.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://dev.nodeca.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link text&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://nodeca.github.io/pica/demo/&#34; title=&#34;title text!&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link with title&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Autoconverted link &lt;a href=&#34;https://github.com/nodeca/pica&#34;&gt;https://github.com/nodeca/pica&lt;/a&gt; (enable linkify to see)&lt;/p&gt;
-&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://octodex.github.com/images/minion.png&#34; alt=&#34;Minion&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Like links, Images also have a footnote style syntax&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://octodex.github.com/images/dojocat.jpg&#34; alt=&#34;Alt text&#34; title=&#34;The Dojocat&#34;&gt;&lt;/p&gt;
-&lt;p&gt;With a reference later in the document defining the URL location:&lt;/p&gt;
-&lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
-&lt;p&gt;The killer feature of &lt;code&gt;markdown-it&lt;/code&gt; is very effective support of
-
-&lt;a href=&#34;https://www.npmjs.org/browse/keyword/markdown-it-plugin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;syntax plugins&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;emojieshttpsgithubcommarkdown-itmarkdown-it-emoji&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-emoji&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emojies&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Classic markup: 😉 :crush: 😢 :tear: 😆 😋&lt;/p&gt;
-&lt;p&gt;Shortcuts (emoticons): :-) :-( 8-) ;)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;see 
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-emoji#change-output&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to change output&lt;/a&gt; with twemoji.&lt;/p&gt;
-&lt;h3 id=&#34;subscripthttpsgithubcommarkdown-itmarkdown-it-sub--superscripthttpsgithubcommarkdown-itmarkdown-it-sup&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-sub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Subscript&lt;/a&gt; / 
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-sup&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Superscript&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;19^th^&lt;/li&gt;
-&lt;li&gt;H~2~O&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;inshttpsgithubcommarkdown-itmarkdown-it-ins&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-ins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lt;ins&amp;gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;++Inserted text++&lt;/p&gt;
-&lt;h3 id=&#34;markhttpsgithubcommarkdown-itmarkdown-it-mark&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-mark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lt;mark&amp;gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;==Marked text==&lt;/p&gt;
-&lt;h3 id=&#34;footnoteshttpsgithubcommarkdown-itmarkdown-it-footnote&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-footnote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Footnotes&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Footnote 1 link&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Footnote 2 link&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Inline footnote^[Text of inline footnote] definition.&lt;/p&gt;
-&lt;p&gt;Duplicated footnote reference&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;definition-listshttpsgithubcommarkdown-itmarkdown-it-deflist&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-deflist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Definition lists&lt;/a&gt;&lt;/h3&gt;
-&lt;dl&gt;
-&lt;dt&gt;Term 1&lt;/dt&gt;
-&lt;dd&gt;
-&lt;p&gt;Definition 1
-with lazy continuation.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;dt&gt;Term 2 with &lt;em&gt;inline markup&lt;/em&gt;&lt;/dt&gt;
-&lt;dd&gt;
-&lt;p&gt;Definition 2&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{ some code, part of Definition 2 }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Third paragraph of definition 2.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;&lt;em&gt;Compact style:&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Term 1
-~ Definition 1&lt;/p&gt;
-&lt;p&gt;Term 2
-~ Definition 2a
-~ Definition 2b&lt;/p&gt;
-&lt;h3 id=&#34;abbreviationshttpsgithubcommarkdown-itmarkdown-it-abbr&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-abbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbreviations&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This is HTML abbreviation example.&lt;/p&gt;
-&lt;p&gt;It converts &amp;ldquo;HTML&amp;rdquo;, but keep intact partial entries like &amp;ldquo;xxxHTMLyyy&amp;rdquo; and so on.&lt;/p&gt;
-&lt;p&gt;*[HTML]: Hyper Text Markup Language&lt;/p&gt;
-&lt;h3 id=&#34;custom-containershttpsgithubcommarkdown-itmarkdown-it-container&#34;&gt;
-&lt;a href=&#34;https://github.com/markdown-it/markdown-it-container&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Custom containers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;::: warning
-&lt;em&gt;here be dragons&lt;/em&gt;
-:::&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Footnote &lt;strong&gt;can have markup&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;and multiple paragraphs. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Footnote text. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>E-Tourism</title>
-      <link>https://hardik0307.github.io/project/e-tourism/</link>
-      <pubDate>Tue, 07 Apr 2020 10:27:21 +0530</pubDate>
-      <guid>https://hardik0307.github.io/project/e-tourism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fantasy Cricket League</title>
-      <link>https://hardik0307.github.io/project/fantasy-cricket-league/</link>
-      <pubDate>Tue, 07 Apr 2020 10:23:40 +0530</pubDate>
-      <guid>https://hardik0307.github.io/project/fantasy-cricket-league/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>File Explorer and Optimizer</title>
-      <link>https://hardik0307.github.io/project/file-explorer/</link>
-      <pubDate>Tue, 07 Apr 2020 10:18:41 +0530</pubDate>
-      <guid>https://hardik0307.github.io/project/file-explorer/</guid>
-      <description></description>
     </item>
     
   </channel>

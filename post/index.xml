@@ -5,12 +5,179 @@
     <link>https://hardik0307.github.io/post/</link>
       <atom:link href="https://hardik0307.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Apr 2020 10:46:14 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Apr 2020 17:46:36 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://hardik0307.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>World of GIS and Its Applications</title>
+      <link>https://hardik0307.github.io/post/world-of-gis-and-its-app/</link>
+      <pubDate>Tue, 07 Apr 2020 17:46:36 +0530</pubDate>
+      <guid>https://hardik0307.github.io/post/world-of-gis-and-its-app/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Impossible to map the world–we select and make graphics so that we can understand it” ~&lt;/em&gt; &lt;strong&gt;Roger Tomlinson&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t google , &lt;strong&gt;Roger Tomlinson&lt;/strong&gt; was an English geographer and the primary originator of modern computerised 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Geographic_information_system&#34; title=&#34;Geographic information system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geographic information systems&lt;/a&gt; (GIS), and has been acknowledged as the &lt;strong&gt;father of GIS.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before let&amp;rsquo;s see our TODO.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; What is GIS ?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Geospatial data&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Types of data in GIS&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Application of GIS software&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Available software in Market&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Try to check that box! &lt;br/&gt; 
+That&amp;rsquo;s power of the markdown. &lt;br/&gt;
+Anyways let&amp;rsquo;s start. 😃&lt;/p&gt;
+&lt;h3 id=&#34;what-is-gis&#34;&gt;What is GIS??&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;geographic information system&lt;/strong&gt; (&lt;strong&gt;GIS&lt;/strong&gt;) is a system designed to capture, store, manipulate, analyze, manage, and present &lt;strong&gt;geospatial&lt;/strong&gt; data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wait-but-what-is-geospatial-data&#34;&gt;Wait but what is geospatial data??&lt;/h3&gt;
+&lt;p&gt;The term geospatial is relatively new and has been gaining popularity since the 1980s. Data which contains geographic content in it is classified as geospatial data. This includes coordinates, postal codes, city, or address. But only coordinates are not enough to understand the whole dataset. There must be some notation about that coordinates, for example, the name of the location which the coordinates represent. We call it &lt;em&gt;attribute data&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Not getting? Have a look at data.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;VOLCANX020&lt;/th&gt;
+&lt;th&gt;NAME&lt;/th&gt;
+&lt;th&gt;LOCATION&lt;/th&gt;
+&lt;th&gt;LATITUDE&lt;/th&gt;
+&lt;th&gt;LONGITUDE&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;509&lt;/td&gt;
+&lt;td&gt;Baker&lt;/td&gt;
+&lt;td&gt;US-Washington&lt;/td&gt;
+&lt;td&gt;48.7767982&lt;/td&gt;
+&lt;td&gt;-121.8109970&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;511&lt;/td&gt;
+&lt;td&gt;GlacierPeak&lt;/td&gt;
+&lt;td&gt;US-Washington&lt;/td&gt;
+&lt;td&gt;48.1118011&lt;/td&gt;
+&lt;td&gt;-121.1110001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;513&lt;/td&gt;
+&lt;td&gt;Rainier&lt;/td&gt;
+&lt;td&gt;US-Washington&lt;/td&gt;
+&lt;td&gt;46.8698006&lt;/td&gt;
+&lt;td&gt;-121.7509995&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Here, the number and name of the volcanoes are attribute data and the location, latitude, and longitude are geospatial data.&lt;/p&gt;
+&lt;h3 id=&#34;types-of-data-in-gis&#34;&gt;Types of data in GIS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vector data&lt;br/&gt;
+Vector data consists of individual points which are stored as pairs of (x,y) coordinates. These points further can be joined in a particular order to create lines or joined in closed rings to create polygons.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Point data&lt;br/&gt;
+&lt;strong&gt;Point data&lt;/strong&gt; is commonly used to represent separate data points and nonadjacent (not next to each other) features. To represent point data we can use the radius and different colors to differentiate features from each other.
+&lt;strong&gt;Example&lt;/strong&gt; is maps with point/marker on it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Line data&lt;br/&gt;
+&lt;strong&gt;Line data&lt;/strong&gt; is, of course, used to represent linear features. These features have both starting and ending points. We commonly use solid lines versus dotted lines or a combination of colors or even line thickness to distinguish features from one another. 
+&lt;strong&gt;Primary examples&lt;/strong&gt; would be roads, rivers or metro lines.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.igismap.com/wp-content/uploads/2019/02/line.gif&#34; alt=&#34;from GIS map&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Polygon data&lt;br/&gt;
+When lines are connected into enclosed shape then this type of data termed as polygon data. Polygon should be closed. The start and end point should have the same coordinates. 
+&lt;strong&gt;Examples&lt;/strong&gt; of vector polygon feature are school boundary, city or any political line.
+&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Indian_States_%26_Union_Territories_by_HDI_%282018%29.png/393px-Indian_States_%26_Union_Territories_by_HDI_%282018%29.png&#34; alt=&#34;HDI&#34;&gt;
+HDI(Human Development Index) in India Polygon data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Raster data &lt;br/&gt;
+its simplest form, a raster consists of a matrix of cells (or pixels) organized into rows and columns (or a grid) where each cell contains a value representing information, such as temperature. Rasters are digital aerial photographs, imagery from satellites, digital pictures, or even scanned maps.
+&lt;img src=&#34;https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/!FME_Geometry/Images/raster.png&#34; alt=&#34;Raster data&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now what to discuss:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; What is GIS ?&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Geospatial data&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Types of data in GIS&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Application of GIS software&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Available software in Market&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s jump into GIS applications.&lt;/p&gt;
+&lt;h3 id=&#34;gis-application&#34;&gt;GIS Application&lt;/h3&gt;
+&lt;p&gt;Many disciplines can benefit from GIS technology.
+Usage in fields of,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Science&lt;/li&gt;
+&lt;li&gt;Government&lt;/li&gt;
+&lt;li&gt;Business&lt;/li&gt;
+&lt;li&gt;Industry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;aplication-includes&#34;&gt;Aplication includes,&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Real estate&lt;/li&gt;
+&lt;li&gt;Public health&lt;/li&gt;
+&lt;li&gt;Crime mapping&lt;/li&gt;
+&lt;li&gt;National defense&lt;/li&gt;
+&lt;li&gt;Sustainable development&lt;/li&gt;
+&lt;li&gt;Natural resources&lt;/li&gt;
+&lt;li&gt;Climatology&lt;/li&gt;
+&lt;li&gt;Landscape architecture&lt;/li&gt;
+&lt;li&gt;Archaeology regional and community planning, transportation and logistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let me put it into GIS.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;So in 2010,  &lt;strong&gt;Kerala Police&lt;/strong&gt; planned &lt;strong&gt;GIS Based Crime mapping&lt;/strong&gt;. 
+The Police Department will be developing a GIS-based crime mapping facility for effectively managing the data pertaining to law and order and thereby to make intelligent decisions with emphasis on spatial logistics and patterns.
+
+&lt;a href=&#34;[https://www.newindianexpress.com/states/kerala/2010/jul/02/kerala-police-plan-gis-based-crime-mapping-166437.html]%28https://www.newindianexpress.com/states/kerala/2010/jul/02/kerala-police-plan-gis-based-crime-mapping-166437.html%29&#34;&gt;Detailed&lt;/a&gt;
+&lt;br/&gt;How cool is that!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Climate scientists work with thousands of data sets every day, often cross-checking, merging, morphing and manipulating it into something useful. Whether that is for academic or government reports, or for any decision makers who cannot make sense of raw data and need it transformed into something they can work with or use as supporting evidence . GIS is the technology of problem solving and geographical data - a data set with which climate scientists work most often - presents many problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://wiki.gis.com/wiki/images/a/aa/Annual_Average_Temperature_Map.jpg&#34; alt=&#34;Data&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During &lt;strong&gt;virus spread or health issue&lt;/strong&gt;, to track it.
+Example, recently &lt;strong&gt;Washington universty&lt;/strong&gt; tracking COVID-19 spread in world:&lt;br/&gt;
+
+&lt;a href=&#34;https://hgis.uw.edu/virus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visit this&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;available-softwares&#34;&gt;Available softwares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ArcGIS (Esri)&lt;/li&gt;
+&lt;li&gt;MapInfo Professional (Pitney Bowes)&lt;/li&gt;
+&lt;li&gt;Geomedia (Hexagon Geospatial)&lt;/li&gt;
+&lt;li&gt;Global Mapper (Blue Marble)&lt;/li&gt;
+&lt;li&gt;Manifold GIS (Manifold)&lt;/li&gt;
+&lt;li&gt;Smallworld (General Electric)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So download it load data and map the world! &lt;strong&gt;if possible surely make post on GIS databases&lt;/strong&gt;, but for now have a look on this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/1400/1*YIwx2jh66NdWqF-GpBTwCA.gif&#34; alt=&#34;&#34;&gt;
+A week of flights in Brazil. Original file was just a csv with origin and destination coordinates. I loaded the data to PostGIS(GIS database), created point geometries from the coordinates, then created lines between the points and eventually visualized the data with QGIS Time Manager.&lt;/p&gt;
+&lt;p&gt;Happy to hear your feedback/criticism.&lt;br/&gt;
+Stay Safe and Hydrated!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Test</title>
