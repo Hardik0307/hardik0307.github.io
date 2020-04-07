@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-plateform | Hardik Bagada</title>
+    <link>/tags/cross-plateform/</link>
+      <atom:link href="/tags/cross-plateform/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cross-plateform</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Apr 2020 10:18:41 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cross-plateform</title>
+      <link>/tags/cross-plateform/</link>
+    </image>
+    
+    <item>
+      <title>File Explorer and Optimizer</title>
+      <link>/project/file-explorer/</link>
+      <pubDate>Tue, 07 Apr 2020 10:18:41 +0530</pubDate>
+      <guid>/project/file-explorer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
