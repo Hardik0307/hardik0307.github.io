@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP.NET | Hardik Bagada</title>
+    <link>https://hardik0307.github.io/tags/asp.net/</link>
+      <atom:link href="https://hardik0307.github.io/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>ASP.NET</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 16 May 2020 16:37:16 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ASP.NET</title>
+      <link>https://hardik0307.github.io/tags/asp.net/</link>
+    </image>
+    
+    <item>
+      <title> Project Management</title>
+      <link>https://hardik0307.github.io/project/student-management/</link>
+      <pubDate>Sat, 16 May 2020 16:37:16 +0530</pubDate>
+      <guid>https://hardik0307.github.io/project/student-management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
